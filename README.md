@@ -12,10 +12,10 @@ Once you’ve grabbed the zip from the “Downloads” section of this post, go 
 
 Here are quite a few moving parts for this project — take the time now to carefully read this section so you become familiar with all the files in today’s project.
 
-Our project has two directories and four files in the root folder:
+Our project has two directories and four files in the root folder:</br>
 
-cascades/ : Contains harcasscade file. 
-images/ : Contains several test images that we’ll use to verify the operation of our model.
+cascades/ : Contains harcasscade file. </br>
+images/ : Contains several test images that we’ll use to verify the operation of our model.</br>
 
 How to use:</br>
 Step 1: Input images in the images folder.</br>
